@@ -1,0 +1,8 @@
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\bin\Debug\Aroochi.Services.Maker.exe.config
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\bin\Debug\Aroochi.Services.Maker.exe
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\bin\Debug\Aroochi.Services.Maker.pdb
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\obj\Debug\Aroochi.Services.Maker.csprojResolveAssemblyReference.cache
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\obj\Debug\Aroochi.Services.Maker.exe
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\obj\Debug\Aroochi.Services.Maker.pdb
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\bin\Debug\Newtonsoft.Json.dll
+D:\Developing\ASP.Net\Aroochi\Aroochi.Services.Maker\bin\Debug\Newtonsoft.Json.xml
